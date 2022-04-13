@@ -1,0 +1,3 @@
+```console
+> docker run -it devopsdockeruh/pull_exercise
+```
